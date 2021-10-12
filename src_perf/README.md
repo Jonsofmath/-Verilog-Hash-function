@@ -1,0 +1,3 @@
+The architecture modules are organized in folders, one for each module.
+
+Each folder contains the Verilog code that describes the module. Also, it includes a test file called "test" with the test applied to the module and a test bench called "test_bench" so that the test can be applied to the module. Also, a file is included makefile for automatic compilation that must be run by typing "make all" at the console. This will display the GTKWave with the test run on the module. Or, if you want to observe the test directly, open the file ending in .gtkw.

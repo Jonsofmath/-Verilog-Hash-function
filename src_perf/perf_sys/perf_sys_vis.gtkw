@@ -1,0 +1,180 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Jul 15 20:36:43 2021
+[*]
+[dumpfile] "/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/microelectronica/asignaciones/proyecto_I/parte2/src/perf_sys/perf_sys.vcd"
+[dumpfile_mtime] "Thu Jul 15 20:32:08 2021"
+[dumpfile_size] 33649
+[savefile] "/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/microelectronica/asignaciones/proyecto_I/parte2/src/perf_sys/perf_sys_vis.gtkw"
+[timestart] 0
+[size] 1280 683
+[pos] -1 -1
+*-18.000000 10000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test_bench.
+[treeopen] test_bench.COND.
+[sst_width] 233
+[signals_width] 254
+[sst_expanded] 1
+[sst_vpaned_height] 173
+@28
+test_bench.clk
+test_bench.reset
+test_bench.start
+@22
+test_bench.COND.counter[7:0]
+test_bench.COND.counter0[7:0]
+test_bench.COND.counter1[7:0]
+@24
+test_bench.target[15:0]
+@22
+test_bench.COND.block0[7:0]
+test_bench.COND.block1[7:0]
+test_bench.COND.block2[7:0]
+test_bench.COND.block3[7:0]
+test_bench.COND.block4[7:0]
+test_bench.COND.block5[7:0]
+test_bench.COND.block6[7:0]
+test_bench.COND.block7[7:0]
+test_bench.COND.block8[7:0]
+test_bench.COND.block9[7:0]
+test_bench.COND.block10[7:0]
+test_bench.COND.block11[7:0]
+test_bench.nonce0[7:0]
+test_bench.nonce1[7:0]
+@23
+test_bench.nonce2[7:0]
+@22
+test_bench.nonce3[7:0]
+@28
+test_bench.finish
+@200
+-nonce_0
+@22
+test_bench.COND.nonce_0.source0[7:0]
+test_bench.COND.nonce_0.source1[7:0]
+@28
+test_bench.COND.nonce_0.type[1:0]
+test_bench.COND.nonce_0.fail
+@22
+test_bench.COND.nonce_0.nonce_array0[7:0]
+test_bench.COND.nonce_0.nonce_array1[7:0]
+test_bench.COND.nonce_0.nonce_array2[7:0]
+test_bench.COND.nonce_0.nonce_array3[7:0]
+@200
+-nonce_1
+@22
+test_bench.COND.nonce_1.source0[7:0]
+test_bench.COND.nonce_1.source1[7:0]
+@28
+test_bench.COND.nonce_1.type[1:0]
+test_bench.COND.nonce_1.fail
+@22
+test_bench.COND.nonce_1.nonce_array0[7:0]
+test_bench.COND.nonce_1.nonce_array1[7:0]
+test_bench.COND.nonce_1.nonce_array2[7:0]
+test_bench.COND.nonce_1.nonce_array3[7:0]
+@200
+-nonce_2
+@22
+test_bench.COND.nonce_2.source0[7:0]
+test_bench.COND.nonce_2.source1[7:0]
+@28
+test_bench.COND.nonce_2.type[1:0]
+test_bench.COND.nonce_2.fail
+@22
+test_bench.COND.nonce_2.nonce_array0[7:0]
+test_bench.COND.nonce_2.nonce_array1[7:0]
+test_bench.COND.nonce_2.nonce_array2[7:0]
+test_bench.COND.nonce_2.nonce_array3[7:0]
+@200
+-micro0
+@22
+test_bench.COND.micro0.hash_array0[7:0]
+test_bench.COND.micro0.hash_array1[7:0]
+test_bench.COND.micro0.hash_array2[7:0]
+@200
+-micro1
+@22
+test_bench.COND.micro1.hash_array0[7:0]
+test_bench.COND.micro1.hash_array1[7:0]
+test_bench.COND.micro1.hash_array2[7:0]
+@200
+-micro2
+@22
+test_bench.COND.micro2.hash_array0[7:0]
+test_bench.COND.micro2.hash_array1[7:0]
+test_bench.COND.micro2.hash_array2[7:0]
+@200
+-compare0_0
+@22
+test_bench.COND.compare_hash0_0.number0[15:0]
+test_bench.COND.compare_hash0_0.number1[15:0]
+@28
+test_bench.COND.compare_hash0_0.compare_var[2:0]
+@200
+-compare0_1
+@22
+test_bench.COND.compare_hash0_1.number0[15:0]
+test_bench.COND.compare_hash0_1.number1[15:0]
+@28
+test_bench.COND.compare_hash0_1.compare_var[2:0]
+@200
+-compare1_0
+@22
+test_bench.COND.compare_hash1_0.number0[15:0]
+test_bench.COND.compare_hash1_0.number1[15:0]
+@28
+test_bench.COND.compare_hash1_0.compare_var[2:0]
+@200
+-compare1_1
+@22
+test_bench.COND.compare_hash1_1.number0[15:0]
+test_bench.COND.compare_hash1_1.number1[15:0]
+@28
+test_bench.COND.compare_hash1_1.compare_var[2:0]
+@200
+-compare2_0
+@22
+test_bench.COND.compare_hash2_0.number0[15:0]
+test_bench.COND.compare_hash2_0.number1[15:0]
+@28
+test_bench.COND.compare_hash2_0.compare_var[2:0]
+@200
+-compare2_1
+@22
+test_bench.COND.compare_hash2_1.number0[15:0]
+test_bench.COND.compare_hash2_1.number1[15:0]
+@28
+test_bench.COND.compare_hash2_1.compare_var[2:0]
+@200
+-validity_0
+@28
+test_bench.COND.validity_0.input0[2:0]
+test_bench.COND.validity_0.input1[2:0]
+test_bench.COND.validity_0.validity_reg
+@200
+-validity_1
+@28
+test_bench.COND.validity_1.input0[2:0]
+test_bench.COND.validity_1.input1[2:0]
+test_bench.COND.validity_1.validity_reg
+@200
+-validity_2
+@28
+test_bench.COND.validity_2.input0[2:0]
+test_bench.COND.validity_2.input1[2:0]
+test_bench.COND.validity_2.validity_reg
+test_bench.COND.invalid_nonce
+@200
+-loop_limit
+@28
+test_bench.COND.loop_limit_inst.stop
+@22
+test_bench.COND.loop_limit_inst.current_loop[15:0]
+test_bench.COND.loop_limit_inst.current_loop_actualize[15:0]
+@28
+test_bench.COND.loop_limit_inst.fail
+@24
+test_bench.COND.loop_limit_inst.loop_limit[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,60 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Jul 14 00:51:15 2021
+[*]
+[dumpfile] "/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/microelectronica/asignaciones/proyecto_I/parte2/src/micro_ucr_hash/micro_ucr_hash.vcd"
+[dumpfile_mtime] "Wed Jul 14 00:51:04 2021"
+[dumpfile_size] 5378
+[savefile] "/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/microelectronica/asignaciones/proyecto_I/parte2/src/micro_ucr_hash/micro_ucr_hash_vis.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 202 8
+*-14.000000 30000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test_bench.
+[sst_width] 233
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+test_bench.clk
+test_bench.reset
+@22
+test_bench.array_numbers0[7:0]
+test_bench.array_numbers1[7:0]
+test_bench.array_numbers2[7:0]
+test_bench.array_numbers3[7:0]
+test_bench.array_numbers4[7:0]
+test_bench.array_numbers5[7:0]
+test_bench.array_numbers6[7:0]
+test_bench.array_numbers7[7:0]
+test_bench.array_numbers8[7:0]
+test_bench.array_numbers9[7:0]
+test_bench.array_numbers10[7:0]
+test_bench.array_numbers11[7:0]
+test_bench.array_numbers12[7:0]
+test_bench.array_numbers13[7:0]
+test_bench.array_numbers14[7:0]
+test_bench.array_numbers15[7:0]
+test_bench.hash_array0[7:0]
+test_bench.hash_array1[7:0]
+test_bench.hash_array2[7:0]
+@200
+-debug
+@22
+test_bench.COND.hash_array_int_0[7:0]
+test_bench.COND.hash_array_int_1[7:0]
+test_bench.COND.hash_array_int_2[7:0]
+test_bench.COND.a[7:0]
+test_bench.COND.b[7:0]
+@23
+test_bench.COND.c[7:0]
+@22
+test_bench.COND.k[7:0]
+test_bench.COND.x[7:0]
+test_bench.COND.counter[5:0]
+@24
+test_bench.COND.last_flag[8:0]
+@22
+test_bench.COND.w_debug[7:0]
+[pattern_trace] 1
+[pattern_trace] 0

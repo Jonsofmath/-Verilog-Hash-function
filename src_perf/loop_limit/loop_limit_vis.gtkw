@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Jul 15 17:51:33 2021
+[*]
+[dumpfile] "/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/microelectronica/asignaciones/proyecto_I/parte2/src/loop_limit/loop_limit.vcd"
+[dumpfile_mtime] "Thu Jul 15 17:51:23 2021"
+[dumpfile_size] 2180
+[savefile] "/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/microelectronica/asignaciones/proyecto_I/parte2/src/loop_limit/loop_limit_vis.gtkw"
+[timestart] 0
+[size] 1280 720
+[pos] 0 0
+*-14.000000 47510 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test_bench.
+[sst_width] 233
+[signals_width] 254
+[sst_expanded] 1
+[sst_vpaned_height] 186
+@28
+test_bench.clk
+test_bench.reset
+test_bench.stop
+test_bench.fail
+@24
+test_bench.current_loop[15:0]
+test_bench.current_loop_actualize[15:0]
+test_bench.COND.loop_limit[15:0]
+test_bench.COND.loop_status[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
